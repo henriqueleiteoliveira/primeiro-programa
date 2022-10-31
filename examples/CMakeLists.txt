@@ -1,4 +1,5 @@
 # add_subdirectory(helloworld)
 # add_subdirectory(firstapp)
 # add_subdirectory(tictactoe)
-add_subdirectory(atividade1)
+# add_subdirectory(atividade1)
+add_subdirectory(atividade2)
